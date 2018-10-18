@@ -1,0 +1,4 @@
+*.dll
+*.pdb
+/BotInABot.bot
+/.vs/BotInABot/v15/Server/sqlite3/db.lock

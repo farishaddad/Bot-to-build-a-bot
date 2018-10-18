@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\BotInABot\bin\Debug\netcoreapp2.0\BotInABot.bot
+C:\Users\Admin\Documents\BotInABot\bin\Debug\netcoreapp2.0\BotInABot.deps.json
+C:\Users\Admin\Documents\BotInABot\bin\Debug\netcoreapp2.0\BotInABot.runtimeconfig.json
+C:\Users\Admin\Documents\BotInABot\bin\Debug\netcoreapp2.0\BotInABot.runtimeconfig.dev.json
+C:\Users\Admin\Documents\BotInABot\bin\Debug\netcoreapp2.0\BotInABot.dll
+C:\Users\Admin\Documents\BotInABot\bin\Debug\netcoreapp2.0\BotInABot.pdb
+C:\Users\Admin\Documents\BotInABot\obj\Debug\netcoreapp2.0\BotInABot.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\BotInABot\obj\Debug\netcoreapp2.0\BotInABot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\BotInABot\obj\Debug\netcoreapp2.0\BotInABot.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\BotInABot\obj\Debug\netcoreapp2.0\BotInABot.AssemblyInfo.cs
+C:\Users\Admin\Documents\BotInABot\obj\Debug\netcoreapp2.0\BotInABot.dll
+C:\Users\Admin\Documents\BotInABot\obj\Debug\netcoreapp2.0\BotInABot.pdb
