@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Basic Bot template
 This bot has been created using [Microsoft Bot Framework](https://dev.botframework.com),
 - Use [LUIS](https://luis.ai) to implement core AI capabilities
@@ -65,3 +66,6 @@ msbot clone services -f deploymentScripts/msbotClone -n <BOT-NAME> -l <Azure-loc
 - [Channels and Bot Connector Service](https://docs.microsoft.com/en-us/azure/bot-service/bot-concepts?view=azure-bot-service-4.0)
 - [QnA Maker](https://qnamaker.ai)
 
+=======
+# Bot-to-build-a-bot
+>>>>>>> 8b556ae1ac0fa25865a9102fe5950809fbdf8568
